@@ -39,7 +39,7 @@ Berikut adalah catatan hasil pengujian tampilan antarmuka dan responsivitas apli
 
 1. *Clone* repositori ini:
    ```bash
-   git clone https://github.com/DandiPrayata-lgtm/Praktikum1_Pemrograman-WEB_Dandi_42530009.git
+   git clone https://github.com/DandiPrayata-lgtm/Pemweb-Pratikum-Modul-1-42530009.git
 2. *Masuk* kedalam folder
     ```bash
    cd rwd-lab
